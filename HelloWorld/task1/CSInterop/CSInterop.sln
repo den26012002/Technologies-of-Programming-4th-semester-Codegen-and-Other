@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSInterop", "CSInterop\CSInterop.csproj", "{361434A9-7D26-44C4-82E4-C8CD7721088F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{361434A9-7D26-44C4-82E4-C8CD7721088F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{361434A9-7D26-44C4-82E4-C8CD7721088F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{361434A9-7D26-44C4-82E4-C8CD7721088F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{361434A9-7D26-44C4-82E4-C8CD7721088F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD6C408C-78C7-45D4-9660-EFC602D275E0}
+	EndGlobalSection
+EndGlobal
