@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 using Microsoft.CodeAnalysis;
 using Microsoft.CodeAnalysis.CSharp;
 using Microsoft.CodeAnalysis.CSharp.Syntax;
+using ClientGenerator.Entities;
 
 namespace RealClientGenerator.Services
 {
@@ -16,7 +17,7 @@ namespace RealClientGenerator.Services
     {
         public void GenerateFiles(
             string filesLocationFolder,
-            AntlrTemplate.Entities.SemanticModel semanticModel,
+            ClientGenerator.Entities.SemanticModel semanticModel,
             ITypesMapper typesMapper,
             string serverClassName,
             string serverClassNamespaceName,

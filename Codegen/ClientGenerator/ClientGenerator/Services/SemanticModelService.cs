@@ -7,8 +7,8 @@ using System.Threading.Tasks;
 using Antlr4.Runtime;
 using Antlr4.Runtime.Misc;
 using Antlr4.Runtime.Tree;
-using AntlrTemplate.Entities;
 using ClientGenerator;
+using ClientGenerator.Entities;
 
 namespace AntlrTemplate
 {

@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AntlrTemplate.Entities
+namespace ClientGenerator.Entities
 {
     public class SemanticModel
     {
