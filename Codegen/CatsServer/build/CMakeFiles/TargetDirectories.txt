@@ -1,3 +1,0 @@
-/home/denis/CLionProjects/MyCppServer/build/CMakeFiles/MyCppServer.dir
-/home/denis/CLionProjects/MyCppServer/build/CMakeFiles/edit_cache.dir
-/home/denis/CLionProjects/MyCppServer/build/CMakeFiles/rebuild_cache.dir
